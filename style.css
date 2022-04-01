@@ -6,7 +6,6 @@ body {
 
 textarea {
   background: transparent;
-  background-color: rgb(255, 246, 245);
   border: none;
   resize: none;
   color: #000000;
@@ -27,14 +26,7 @@ textarea {
   white-space: pre-wrap;
 }
 
-.container{
-  display: flex;
-  
-  flex-direction: column;
-  justify-content: center;
- 
 
-}
 .time-block {
   text-align: center;
   border-radius: 15px;
